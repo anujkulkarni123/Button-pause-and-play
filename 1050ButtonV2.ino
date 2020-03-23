@@ -1,3 +1,4 @@
+//Author: Anuj Kulkarni, Finn hafting
 #include <IRLibDecodeBase.h>  //We need both the coding and
 #include <IRLibSendBase.h>    // sending base classes
 #include <IRLib_P01_NEC.h>    //Lowest numbered protocol 1st
